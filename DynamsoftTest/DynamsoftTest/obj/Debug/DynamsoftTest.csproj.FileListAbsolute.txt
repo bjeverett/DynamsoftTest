@@ -1,0 +1,4 @@
+C:\Users\everett.benjamin\Desktop\DynamsoftTest\DynamsoftTest\bin\DynamsoftTest.dll
+C:\Users\everett.benjamin\Desktop\DynamsoftTest\DynamsoftTest\bin\DynamsoftTest.pdb
+C:\Users\everett.benjamin\Desktop\DynamsoftTest\DynamsoftTest\obj\Debug\DynamsoftTest.dll
+C:\Users\everett.benjamin\Desktop\DynamsoftTest\DynamsoftTest\obj\Debug\DynamsoftTest.pdb
