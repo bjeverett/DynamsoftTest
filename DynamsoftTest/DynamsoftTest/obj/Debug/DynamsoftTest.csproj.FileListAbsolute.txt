@@ -2,3 +2,7 @@ C:\Users\everett.benjamin\Desktop\DynamsoftTest\DynamsoftTest\bin\DynamsoftTest.
 C:\Users\everett.benjamin\Desktop\DynamsoftTest\DynamsoftTest\bin\DynamsoftTest.pdb
 C:\Users\everett.benjamin\Desktop\DynamsoftTest\DynamsoftTest\obj\Debug\DynamsoftTest.dll
 C:\Users\everett.benjamin\Desktop\DynamsoftTest\DynamsoftTest\obj\Debug\DynamsoftTest.pdb
+D:\JCDC Documents\Programming\Version Control\GitHub\DynamsoftTest\DynamsoftTest\DynamsoftTest\bin\DynamsoftTest.dll
+D:\JCDC Documents\Programming\Version Control\GitHub\DynamsoftTest\DynamsoftTest\DynamsoftTest\bin\DynamsoftTest.pdb
+D:\JCDC Documents\Programming\Version Control\GitHub\DynamsoftTest\DynamsoftTest\DynamsoftTest\obj\Debug\DynamsoftTest.dll
+D:\JCDC Documents\Programming\Version Control\GitHub\DynamsoftTest\DynamsoftTest\DynamsoftTest\obj\Debug\DynamsoftTest.pdb
